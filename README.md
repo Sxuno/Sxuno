@@ -4,8 +4,8 @@
 [badge_skills_html5]: /badges/skills/html5/html5-original.svg "html 5"
 [badge_skills_webGL]: /badges/skills/webGL/WebGL%20logo.svg "Web GL"
 <!-- Badge tools references -->
-[badge_tools_blender_dark]: /badges/tools/blender/blender_community_badge_white.svg "Blender"
-[badge_tools_blender_light]: /badges/tools/blender/blender_community_badge_black.svg "Blender"
+[badge_tools_blender_dark]: /badges/tools/blender/blender_community_badge_white.svg#gh-dark-mode-only "Blender"
+[badge_tools_blender_light]: /badges/tools/blender/blender_community_badge_black.svg#gh-light-mode-only "Blender"
 [badge_tools_krita]: /badges/tools/krita/Calligrakrita-base.svg "Krita"
 [badge_tools_unrealengine]: /badges/tools/unrealengine/UE_Logo_icon-only_black.svg "UnrealEngine"
 [badge_tools_vscode]: /badges/tools/vscode/vscode.svg "Visual Studio Code"
