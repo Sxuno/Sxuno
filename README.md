@@ -8,6 +8,7 @@ Programs
 </div>
 
 Skills
+
 <div>  
 <img src="https://github.com/Sxuno/Sxuno/blob/main/badges/skills/cplusplus/cplusplus-original.svg" width="32" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="32" />
