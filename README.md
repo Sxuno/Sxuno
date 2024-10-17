@@ -11,11 +11,7 @@
 [badge_tools_vscode]: /badges/tools/vscode/vscode.svg "Visual Studio Code"
 
 
-
-
-![GitHub Dark][badge_tools_blender_dark]
-![GitHub Light][badge_tools_blender_light]
 ![Github Dark][badge_tools_vscode]
-![GitHub Light]
+![GitHub Light][badge_tools_vscode]
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sxuno&theme=github_dark&show_icons=true&count_private=ture&hide_border=true" />
